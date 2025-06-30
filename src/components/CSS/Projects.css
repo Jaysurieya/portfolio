@@ -1,0 +1,19 @@
+.text-pro{
+    color:#00ff97;
+}
+.box{
+    justify-content: center;
+    display:flex;
+    flex-direction:row;
+    gap:50px;
+}
+.card{
+  padding-bottom: 100px;
+}
+.shine-1{
+    font-size: 30px;
+}
+.pad-1{
+  font-size: 20px;
+  padding: 50px;
+}

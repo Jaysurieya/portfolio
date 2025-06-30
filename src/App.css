@@ -1,0 +1,12 @@
+.center-content {
+  position: relative;         /* Fixed to viewport */
+  top: 15px;
+  width: 100vw;            /* Full viewport width */
+  height: 100vh;           /* Full viewport height */
+  z-index: 1;              /* Above the particles */
+  display: flex;
+  flex-direction: column;  /* Stack children vertically */
+  align-items: center;     /* Center horizontally */
+  text-align: center;      /* Optional: center text */
+  box-sizing: border-box;  /* Prevents overflow from padding/border */
+}

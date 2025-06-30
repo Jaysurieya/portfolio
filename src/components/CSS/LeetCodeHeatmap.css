@@ -1,0 +1,17 @@
+.leet-heatmap {
+  justify-content: center;
+  max-width: 100%; /* Adjust this value to control maximum width */
+}
+
+.leet-heatmap img {
+  width: 100%;
+  height: 300px;
+}
+
+.leetcode{
+  color:#ffcc00;
+  padding-right: 800px;
+}
+.shine-2{
+  font-size: 30px;
+}

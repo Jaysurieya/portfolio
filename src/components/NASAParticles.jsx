@@ -58,7 +58,7 @@ const NASAParticles = () => {
         },
         number: {
           density: { enable: true },
-          value: 100,
+          value: 200,
         },
         opacity: { value: 1 },
         shape: { type: "circle" },
